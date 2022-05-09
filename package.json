@@ -11,6 +11,7 @@
     "@vuex-orm/core": "^0.36.4",
     "core-js": "^3.8.3",
     "vue": "^3.2.33",
+    "vue-router": "4",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
